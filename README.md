@@ -1,4 +1,4 @@
-Project: Simple Hero Section
+Simple Hero Section
 
 This project is a basic webpage layout built using HTML and CSS.
 It includes:
